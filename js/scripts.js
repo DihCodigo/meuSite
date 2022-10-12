@@ -1,34 +1,34 @@
 const _gallery = [
 	{
-		img: "assets/1.png",
+		img: "assets/1.jpg",
 		description: "Primeiro"
 	},
 	{
-		img: "assets/2.png",
+		img: "assets/2.jpg",
 		description: "Segundo"
 	},
 	{
-		img: "assets/3.png",
+		img: "assets/3.jpg",
 		description: "Terceiro"
 	},
 	{
-		img: "assets/4.png",
+		img: "assets/4.jpg",
 		description: "Quarto"
 	},
 	{
-		img: "assets/5.png",
+		img: "assets/5.jpg",
 		description: "Quinto"
 	},
 	{
-		img: "assets/6.png",
+		img: "assets/6.jpg",
 		description: "Sexto"
 	},
 	{
-		img: "assets/7.png",
+		img: "assets/7.jpg",
 		description: "Setimo"
 	},
 	{
-		img: "assets/8.png",
+		img: "assets/8.jpg",
 		description: "Oitavo"
 	}
 ]
